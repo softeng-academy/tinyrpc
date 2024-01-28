@@ -2,6 +2,12 @@
 TinyRPC
 =======
 
+About
+-----
+
+TinyRPC is a tiny/barebone/small Remote Procedure Call (RPC) mechanism.
+It is intended for education purposes only.
+
 ![OVERVIEW](OVERVIEW.png)
 
 Copyright & License
